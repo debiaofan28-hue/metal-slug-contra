@@ -30,7 +30,6 @@ Marco Rossi 进入魂斗罗 NES 第一关，从丛林起点经过两座爆破桥
 ## 验证与运行
 
 运行 `node check.cjs` 检查武器切换、弹药、投弹、地形、水中脱困、全关地形通行、第二座桥爆破、Boss 实弹伤害与延迟结算、深坑死亡和检查点续关。
-可选本地服务：`python -m http.server 18766 --bind 127.0.0.1`，打开 http://127.0.0.1:18766/ 。
 `prepare-assets.py` 仅用于素材整理，运行游戏不需要 Python 或 Pillow。
 
 ## 素材来源
