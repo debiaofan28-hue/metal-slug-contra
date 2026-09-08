@@ -1,4 +1,5 @@
 # 合金弹头 × 魂斗罗：丛林行动
+🎮 **[点击这里开始公开试玩](https://debiaofan28-hue.github.io/metal-slug-contra/)**
 
 Marco Rossi 进入魂斗罗 NES 第一关，从丛林起点经过两座爆破桥、高低平台，打到关底堡垒并摧毁核心。纯 HTML、CSS、JavaScript 浏览器游戏，无需安装依赖。
 
