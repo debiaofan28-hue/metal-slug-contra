@@ -1,0 +1,9 @@
+reference-metal-slug/
+asset-check.html
+prepare-assets.py
+check.cjs
+server*.log
+Start-Game.cmd
+assets/contra-stage1-reference.png
+assets/soldier.gif
+
