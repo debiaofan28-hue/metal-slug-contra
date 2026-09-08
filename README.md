@@ -39,4 +39,5 @@ Marco Rossi 进入魂斗罗 NES 第一关，从丛林起点经过两座爆破桥
 - Marco、枪声、音乐、爆炸： https://github.com/alejru08/Metal-Slug 。阅读了其 README 与动画数据；本游戏不执行该项目代码。
 - 像素字体： https://github.com/tylerreichle/mario_js 的 pixel-emulator.otf，沿用已制作的混搭项目。
 
-非官方本地混搭样片。原作角色、图像及声音归 SNK / Konami 等相应权利人所有；未发布到公网。
+
+非官方同人混搭演示，仅供学习交流。原作角色、图像及声音归 SNK / Konami 等相应权利人所有。
